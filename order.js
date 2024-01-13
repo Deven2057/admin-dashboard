@@ -13,3 +13,10 @@ const Orders = [
         paymentStatus: 'Refunded',
         status: 'Declined'
     },
+{
+        productName: 'Flex-Box Tutorial',
+        productNumber: '36452',
+        paymentStatus: 'Paid',
+        status: 'Active'
+    },
+]
